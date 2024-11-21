@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eli Temanson</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Eli Temanson</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>http://localhost:1313/blog/2024_11_21/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024_11_21/</guid>
+      <description>Hello World!</description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>http://localhost:1313/tools/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tools/</guid>
+      <description>My Favorite Utilities!</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
+    </item>
+    <item>
+      <title>Measurement of the 25Al(d,n) 26Si reaction and impact on the 25Al(p,γ)26Si reaction rate</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>This work constrains the reaction rate of a high-temperature path in the reactions network that populates 26Al. The overal goal when invesitgating reactions related to the 26Al abundance is: &amp;lsquo;&amp;lsquo;What astrophysical sites are responsible for the production of galactic aluminum?&amp;rsquo;&amp;rsquo;</description>
+    </item>
+  </channel>
+</rss>

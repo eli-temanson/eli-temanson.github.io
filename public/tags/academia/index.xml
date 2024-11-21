@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Academia on Eli Temanson</title>
+    <link>http://localhost:1313/tags/academia/</link>
+    <description>Recent content in Academia on Eli Temanson</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/academia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Measurement of the 25Al(d,n) 26Si reaction and impact on the 25Al(p,γ)26Si reaction rate</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>This work constrains the reaction rate of a high-temperature path in the reactions network that populates 26Al. The overal goal when invesitgating reactions related to the 26Al abundance is: &amp;lsquo;&amp;lsquo;What astrophysical sites are responsible for the production of galactic aluminum?&amp;rsquo;&amp;rsquo;</description>
+    </item>
+  </channel>
+</rss>

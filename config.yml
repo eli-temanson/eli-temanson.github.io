@@ -1,0 +1,101 @@
+baseURL: "https://eli-temanson.github.io" 
+title: Eli Temanson
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: papers/
+          weight: 2
+        - name: Tools
+          url: tools/
+          weight: 3
+        - name: Blog
+          url: blog/
+          weight: 4
+
+params:
+    description: "I am a post-doctoral researcher engineer at the Commissariat à l'énergie atomique et aux énergies alternatives (CEA)."
+    author: Eli Temanson
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    # MainSections: ["books","courses","papers","data"]
+    MainSections: ["blog","tools","papers"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Dr. Eli Temanson
+          subtitle: "I am a post-doctoral researcher engineer at the Commissariat à l'énergie atomique et aux énergies alternatives (CEA)."
+          imageUrl: "et.jpeg"
+          imageWidth: 260
+          imageHeight: 260
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
+            - name: Blog
+              url: blog/
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        # - name: Email
+        #   url: mailto:moritz.maria.von.igelfeld@gmail.com
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/igelfeld
+        - name: Tools
+          url: tools/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=dWoH-W0AAAAJ&hl=en
+        - name: GitHub
+          url: https://github.com/eli-temanson
+        - name: Twitter
+          url: https://x.com/ETemanson
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Eli Temanson"
+      icon: atom.svg
+      iconHeight: 22
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
