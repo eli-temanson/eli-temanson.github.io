@@ -21,7 +21,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am a post-doctoral researcher engineer at the Commissariat à l'énergie atomique et aux énergies alternatives (CEA)."
+    description: "I am a post-doctoral research engineer at the Commissariat à l'énergie atomique et aux énergies alternatives (CEA)."
     author: Eli Temanson
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -47,7 +47,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Dr. Eli Temanson
+          title: Eli Temanson, PhD
           subtitle: "I am a post-doctoral researcher engineer at the Commissariat à l'énergie atomique et aux énergies alternatives (CEA)."
           imageUrl: "et.jpeg"
           imageWidth: 260

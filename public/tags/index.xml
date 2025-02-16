@@ -4,22 +4,22 @@
     <title>Tags on Eli Temanson</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Eli Temanson</description>
-    <generator>Hugo -- 0.139.0</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/tags/blog/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blog/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Academia</title>
       <link>http://localhost:1313/tags/academia/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/academia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
-      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blog/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +34,13 @@
       <link>http://localhost:1313/tags/nuclear-astrophysics/</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/nuclear-astrophysics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Advice</title>
+      <link>http://localhost:1313/tags/advice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/advice/</guid>
       <description></description>
     </item>
   </channel>

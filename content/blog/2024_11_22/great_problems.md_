@@ -1,7 +1,7 @@
 ---
-title: "Paper Title (less than 70 characters)" 
-date: 2024-11-21
-lastmod: 2024-11-21
+title: "Great Problems in phsyics for the 21 centry" 
+date: 2024-11-22
+lastmod: 2024-11-22
 tags: ["blog"]
 author: ["Eli Temanson"]
 description: "Hello World!" 
@@ -13,8 +13,8 @@ summary: "Hugo blog"
 ---
 
 ##### Download:
-<!-- - [Code and data](https://github.com/paper_repo) -->
-
+- [Publication](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.76.981)
+- [Hilbert's Problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems)
 ---
 
 ##### Abstract:
@@ -31,8 +31,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Citation
 
-```python
-import code
+```bibtex
+@article{RevModPhys.76.981,
+  title = {Nobel Lecture: On superconductivity and superfluidity (what I have and have not managed to do) as well as on the ``physical minimum'' at the beginning of the XXI century},
+  author = {Ginzburg, Vitaly L.},
+  journal = {Rev. Mod. Phys.},
+  volume = {76},
+  issue = {3},
+  pages = {981--998},
+  numpages = {0},
+  year = {2004},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/RevModPhys.76.981},
+  url = {https://link.aps.org/doi/10.1103/RevModPhys.76.981}
+}
 ```
 
 ---
